@@ -118,11 +118,11 @@ const styles = StyleSheet.create({
     },
     button: {
         fontSize: 20,
-        width: 200,
+        width: 100,
         borderWidth: 2,
         marginTop: 5,
         marginBottom: 5,
-        marginLeft: 150,
+        marginLeft: 252,
     },
     errors: {
         color: 'red',
